@@ -1,0 +1,22 @@
+{
+  "name": "test1_javob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abduqahhor2000/test1_javob.git"
+  },
+  "author": "Abduqahhor Norimmatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abduqahhor2000/test1_javob/issues"
+  },
+  "homepage": "https://github.com/Abduqahhor2000/test1_javob#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
